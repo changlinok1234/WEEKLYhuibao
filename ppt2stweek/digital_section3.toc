@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{灰度变换}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{灰度变换函数}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{直方图处理}{6}{0}{1}
+\beamer@sectionintoc {2}{空间滤波}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{空间滤波基础}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{平滑空间滤波器}{16}{0}{2}
+\beamer@subsectionintoc {2}{3}{锐化空间滤波器}{18}{0}{2}

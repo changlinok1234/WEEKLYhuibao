@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{插入一张图片}{3}{0}{1}
+\beamer@sectionintoc {2}{三种形式的使用}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{itemize}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{description}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{enumerate}{4}{0}{2}
+\beamer@sectionintoc {3}{三个段落排版}{5}{0}{3}
+\beamer@sectionintoc {4}{插入两张并列的图片}{6}{0}{4}
+\beamer@sectionintoc {5}{插入公式}{7}{0}{5}
