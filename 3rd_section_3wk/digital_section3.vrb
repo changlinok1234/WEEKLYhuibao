@@ -1,8 +1,0 @@
-\frametitle{Purpose}
-
-We want to:
-
-\begin{description}
-\item [Contrast manipulation and image thresholding]Intensity Transformation %对比度和阈值处理为目的 :灰度变换
-\item [Performing operations]Spatial filtering %改善性能： 空间滤波
-\end{description}
