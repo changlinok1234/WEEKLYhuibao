@@ -1,0 +1,12 @@
+\frametitle{灰度变换}
+灰度变换在图像的单个像素上操作，主要以对比度和阈值处理为目的。空间性能涉及改
+善性能的操作。
+
+空间域处理由下式表示：
+\begin{equation} \label{3.1}  %这里应该如何写label里面的标号？
+g(x,y)=T[f(x,y)]
+\end{equation}
+最小领域的大小为$1*1$时，变换函数可以写为：
+\begin{equation} \label{3.2}
+ s=T(r)
+\end{equation}
