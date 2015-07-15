@@ -1,3 +1,3 @@
 WeeklyReports
 =====================
-The materials of weekly reports.
+The materials of my weekly reports.
