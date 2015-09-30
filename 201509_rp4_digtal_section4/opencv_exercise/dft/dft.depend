@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1443010938 source:/home/changlin/program/codeblocks/digital_image_processing/dft/main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+
+1443425037 source:/home/changlin/notes/Weekly_report/201509_rp4_digtal_section4/opencv_exercise/dft/main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+

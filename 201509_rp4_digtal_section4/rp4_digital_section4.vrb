@@ -1,0 +1,7 @@
+\frametitle{Total Frame}
+
+The 2-D Fourier transform and its application to digital image.
+
+%本章重要内容：二维傅里叶变换及其在数字图像处理中的应用。一维变换是为二维变换做基础。
+
+The result of Fourier transform:magitude image and phase image.%幅度图像和相位图像

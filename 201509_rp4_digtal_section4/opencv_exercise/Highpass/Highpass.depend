@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443263918 source:/home/changlin/program/codeblocks/digital_image_processing/Highpass/main.cpp
+	<opencv/cv.h>
+	"math.h"
+	<opencv/cxcore.h>
+	<opencv/highgui.h>
+	<opencv2/core.hpp>
+	<iostream>
+
